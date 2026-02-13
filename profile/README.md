@@ -1,6 +1,3 @@
-# Lumino Technologies Ltd
-[Official Website](https://lumino-tech.co.uk/) • [LinkedIn](https://www.linkedin.com/company/luminotech)
-
 > **Pioneering next-generation satellite optical and quantum technologies through innovative engineering solutions.** > We aim to enable future quantum networks and provide global connectivity in optical communications.
 
 ---
